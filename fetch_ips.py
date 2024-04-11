@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 #   
-#   Author  :   XueWeiHan
-#   E-mail  :   595666367@qq.com
-#   Date    :   2020-05-19 15:27
+#   Author  :   WuYu
+#   E-mail  :   nz-wy@qq.com
+#   Date    :   2023-04-11 15:27
 #   Desc    :   获取最新的 GitHub 相关域名对应 IP
 import os
 import re
@@ -41,8 +41,8 @@ HOSTS_TEMPLATE = """# GitHub520 Host Start
 {content}
 
 # Update time: {update_time}
-# Update url: https://raw.hellogithub.com/hosts
-# Star me: https://github.com/521xueweihan/GitHub520
+# Update url: https://raw.cx/hosts
+# Star me: https://github.com/nanzhinet/GitHub520
 # GitHub520 Host End\n"""
 
 
